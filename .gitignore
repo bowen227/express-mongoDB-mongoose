@@ -2,3 +2,4 @@ node_modules
 sessions
 server.cert
 server.key
+config.js
